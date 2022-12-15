@@ -11,6 +11,11 @@
 | :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
 | <img src = "https://avatars.githubusercontent.com/u/107696895?v=4" width="100" /> | <img src = "https://avatars.githubusercontent.com/u/59863297?v=4" width="100" /> | <img src ="https://avatars.githubusercontent.com/u/102732425?v=4" width="100" /> | <img src ="https://avatars.githubusercontent.com/u/54827741?v=4" width="100" /> | <img src ="https://avatars.githubusercontent.com/u/13742045?v=4" width="100" /> |
 
+<br>
 
+***
 
-</br>
+<br>
+
+## 🐈 회의록
+- [회의록](https://github.com/Rithmscape/Rithmscape/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D)
