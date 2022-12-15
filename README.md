@@ -1,4 +1,4 @@
-<h1 align="center"> 📚 Rithmscape </h1>
+<h2 align="center"> ✨ 알고리즘 스터디 : Rithmscape ✨ </h2>
 
 ***
 
